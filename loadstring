@@ -1,0 +1,13 @@
+
+if game.PlaceId == 2753915549  then  --- SEA 1 BF
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PekkaTools/PekkaTools/main/Blox%20Fruits"))()
+end
+if game.PlaceId == 4442272183  then --- SEA 2 BF 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PekkaTools/PekkaTools/main/Blox%20Fruits"))()
+end
+if game.PlaceId == 7449423635  then --- SEA 3 BF
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PekkaTools/PekkaTools/main/Blox%20Fruits"))()
+end
+if game.PlaceId == 4490140733  then --- My Resturant
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PekkaTools/PekkaTools/main/My%20Resturant"))()
+end
